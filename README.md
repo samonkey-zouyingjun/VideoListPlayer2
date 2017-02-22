@@ -1,0 +1,2 @@
+# VideoListPlayer2
+兼容IJK的和MD360的列表视频模式
