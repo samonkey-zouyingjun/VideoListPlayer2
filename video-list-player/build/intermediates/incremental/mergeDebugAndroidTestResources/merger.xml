@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet config="2.1.0$Generated" generated="true"><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\com.github.ashqal\MD360Player4Android\2.1.0\res"/></dataSet><dataSet config="0.5.1$Generated" generated="true"><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-armv7a\0.5.1\res"/></dataSet><dataSet config="0.5.1$Generated" generated="true"><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-java\0.5.1\res"/></dataSet><dataSet config="23.2.1$Generated" generated="true"><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\res"/></dataSet><dataSet config="23.2.1$Generated" generated="true"><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\res"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\bundles\debug\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\src\androidTest\res"/><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\generated\res\rs\androidTest\debug"/><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\generated\res\resValues\androidTest\debug"/></dataSet><dataSet config="2.1.0" from-dependency="true" generated-set="2.1.0$Generated"><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\com.github.ashqal\MD360Player4Android\2.1.0\res"><file name="per_pixel_fragment_shader" path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\com.github.ashqal\MD360Player4Android\2.1.0\res\raw\per_pixel_fragment_shader.glsl" qualifiers="" type="raw"/><file name="per_pixel_fragment_shader_bitmap" path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\com.github.ashqal\MD360Player4Android\2.1.0\res\raw\per_pixel_fragment_shader_bitmap.glsl" qualifiers="" type="raw"/><file name="per_pixel_vertex_shader" path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\com.github.ashqal\MD360Player4Android\2.1.0\res\raw\per_pixel_vertex_shader.glsl" qualifiers="" type="raw"/><file path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\com.github.ashqal\MD360Player4Android\2.1.0\res\values\values.xml" qualifiers=""><string name="app_name">VRLib</string></file></source></dataSet><dataSet config="0.5.1" from-dependency="true" generated-set="0.5.1$Generated"><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-armv7a\0.5.1\res"><file path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-armv7a\0.5.1\res\values\values.xml" qualifiers=""><string name="ijkplayer_dummy" ns1:ignore="UnusedResources"/></file></source></dataSet><dataSet config="0.5.1" from-dependency="true" generated-set="0.5.1$Generated"><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-java\0.5.1\res"><file path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-java\0.5.1\res\values\values.xml" qualifiers=""><string name="ijkplayer_dummy"/></file></source></dataSet><dataSet config="23.2.1" from-dependency="true" generated-set="23.2.1$Generated"><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\res"/></dataSet><dataSet config="23.2.1" from-dependency="true" generated-set="23.2.1$Generated"><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\res"><file path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\res\values\values.xml" qualifiers=""><dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen><item name="item_touch_helper_previous_elevation" type="id"/><declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable><dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen><dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen></file></source></dataSet><dataSet config="debug" from-dependency="true" generated-set="debug$Generated"><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\bundles\debug\res"><file path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\intermediates\bundles\debug\res\values\values.xml" qualifiers=""><string name="app_name">videolist</string><declare-styleable name="scaleStyle"><attr name="scaleType">
+            <enum name="none" value="0"/>
+
+            <enum name="fitXY" value="1"/>
+            <enum name="fitStart" value="2"/>
+            <enum name="fitCenter" value="3"/>
+            <enum name="fitEnd" value="4"/>
+
+            <enum name="leftTop" value="5"/>
+            <enum name="leftCenter" value="6"/>
+            <enum name="leftBottom" value="7"/>
+            <enum name="centerTop" value="8"/>
+            <enum name="center" value="9"/>
+            <enum name="centerBottom" value="10"/>
+            <enum name="rightTop" value="11"/>
+            <enum name="rightCenter" value="12"/>
+            <enum name="rightBottom" value="13"/>
+
+            <enum name="leftTopCrop" value="14"/>
+            <enum name="leftCenterCrop" value="15"/>
+            <enum name="leftBottomCrop" value="16"/>
+            <enum name="centerTopCrop" value="17"/>
+            <enum name="centerCrop" value="18"/>
+            <enum name="centerBottomCrop" value="19"/>
+            <enum name="rightTopCrop" value="20"/>
+            <enum name="rightCenterCrop" value="21"/>
+            <enum name="rightBottomCrop" value="22"/>
+
+            <enum name="startInside" value="23"/>
+            <enum name="centerInside" value="24"/>
+            <enum name="endInside" value="25"/>
+        </attr></declare-styleable></file></source></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\src\androidTest\res"/><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\generated\res\rs\androidTest\debug"/><source path="D:\Develeper\workspace\androidsdudio\VideoListPlayer2\video-list-player\build\generated\res\resValues\androidTest\debug"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable><declare-styleable name="scaleStyle"><attr name="scaleType">
+            <enum name="none" value="0"/>
+
+            <enum name="fitXY" value="1"/>
+            <enum name="fitStart" value="2"/>
+            <enum name="fitCenter" value="3"/>
+            <enum name="fitEnd" value="4"/>
+
+            <enum name="leftTop" value="5"/>
+            <enum name="leftCenter" value="6"/>
+            <enum name="leftBottom" value="7"/>
+            <enum name="centerTop" value="8"/>
+            <enum name="center" value="9"/>
+            <enum name="centerBottom" value="10"/>
+            <enum name="rightTop" value="11"/>
+            <enum name="rightCenter" value="12"/>
+            <enum name="rightBottom" value="13"/>
+
+            <enum name="leftTopCrop" value="14"/>
+            <enum name="leftCenterCrop" value="15"/>
+            <enum name="leftBottomCrop" value="16"/>
+            <enum name="centerTopCrop" value="17"/>
+            <enum name="centerCrop" value="18"/>
+            <enum name="centerBottomCrop" value="19"/>
+            <enum name="rightTopCrop" value="20"/>
+            <enum name="rightCenterCrop" value="21"/>
+            <enum name="rightBottomCrop" value="22"/>
+
+            <enum name="startInside" value="23"/>
+            <enum name="centerInside" value="24"/>
+            <enum name="endInside" value="25"/>
+        </attr></declare-styleable></configuration></mergedItems></merger>

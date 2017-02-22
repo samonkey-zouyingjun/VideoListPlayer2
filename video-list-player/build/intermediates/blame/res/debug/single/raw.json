@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Develeper\\workspace\\androidsdudio\\VideoListPlayer2\\video-list-player\\build\\intermediates\\res\\merged\\debug\\raw\\per_pixel_fragment_shader.glsl",
+        "source": "D:\\Develeper\\workspace\\androidsdudio\\VideoListPlayer2\\video-list-player\\build\\intermediates\\exploded-aar\\com.github.ashqal\\MD360Player4Android\\2.1.0\\res\\raw\\per_pixel_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\Develeper\\workspace\\androidsdudio\\VideoListPlayer2\\video-list-player\\build\\intermediates\\res\\merged\\debug\\raw\\per_pixel_vertex_shader.glsl",
+        "source": "D:\\Develeper\\workspace\\androidsdudio\\VideoListPlayer2\\video-list-player\\build\\intermediates\\exploded-aar\\com.github.ashqal\\MD360Player4Android\\2.1.0\\res\\raw\\per_pixel_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\Develeper\\workspace\\androidsdudio\\VideoListPlayer2\\video-list-player\\build\\intermediates\\res\\merged\\debug\\raw\\per_pixel_fragment_shader_bitmap.glsl",
+        "source": "D:\\Develeper\\workspace\\androidsdudio\\VideoListPlayer2\\video-list-player\\build\\intermediates\\exploded-aar\\com.github.ashqal\\MD360Player4Android\\2.1.0\\res\\raw\\per_pixel_fragment_shader_bitmap.glsl"
+    }
+]

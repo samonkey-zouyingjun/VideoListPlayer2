@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "D:\\Develeper\\workspace\\androidsdudio\\VideoListPlayer2\\video-list-player\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1704,
+                    "endColumn": 74,
+                    "endOffset": 1774
+                },
+                "from": {
+                    "file": "D:\\Develeper\\workspace\\androidsdudio\\VideoListPlayer2\\video-list-player\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 74,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1779,
+                    "endColumn": 75,
+                    "endOffset": 1850
+                },
+                "from": {
+                    "file": "D:\\Develeper\\workspace\\androidsdudio\\VideoListPlayer2\\video-list-player\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 75,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1855,
+                    "endColumn": 71,
+                    "endOffset": 1922
+                },
+                "from": {
+                    "file": "D:\\Develeper\\workspace\\androidsdudio\\VideoListPlayer2\\video-list-player\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 71,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1927,
+                    "endColumn": 65,
+                    "endOffset": 1988
+                },
+                "from": {
+                    "file": "D:\\Develeper\\workspace\\androidsdudio\\VideoListPlayer2\\video-list-player\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 65,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1993,
+                    "endColumn": 46,
+                    "endOffset": 2035
+                },
+                "from": {
+                    "file": "D:\\Develeper\\workspace\\androidsdudio\\VideoListPlayer2\\video-list-player\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1432,
+                        "endColumn": 46,
+                        "endOffset": 1474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2040,
+                    "endColumn": 36,
+                    "endOffset": 2072
+                },
+                "from": {
+                    "file": "D:\\Develeper\\workspace\\androidsdudio\\VideoListPlayer2\\video-list-player\\build\\intermediates\\exploded-aar\\tv.danmaku.ijk.media\\ijkplayer-java\\0.5.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 36,
+                        "endOffset": 87
+                    }
+                }
+            }
+        ]
+    }
+]
